@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+*.log
+tmp/
+temp/

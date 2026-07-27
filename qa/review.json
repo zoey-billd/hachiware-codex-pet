@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25759,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25733,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25774,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25769,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25823,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25806,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27036,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25264,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24888,
+          "bbox": [
+            5,
+            11,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24099,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24635,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24874,
+          "bbox": [
+            5,
+            12,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23675,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27161,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27036,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25264,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24888,
+          "bbox": [
+            5,
+            11,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24099,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24635,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24874,
+          "bbox": [
+            5,
+            12,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23675,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27161,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25968,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25943,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24851,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25615,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20986,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25381,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26802,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26639,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27671,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25210,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26496,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16547,
+          "bbox": [
+            5,
+            40,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26799,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26298,
+          "bbox": [
+            5,
+            7,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17366,
+          "bbox": [
+            5,
+            34,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26203,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17150,
+          "bbox": [
+            5,
+            40,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23946,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23596,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23986,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24168,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23923,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23987,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25853,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25339,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25709,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26170,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25587,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26014,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25784,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25236,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24216,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24533,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23279,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\billd\\codex-pets\\hachiware-run\\frames-clean\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24816,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

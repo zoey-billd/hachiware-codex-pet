@@ -1,0 +1,13 @@
+{
+    "ok":  true,
+    "run_dir":  "C:\\Users\\billd\\codex-pets\\hachiware-run",
+    "spritesheet":  "C:\\Users\\billd\\codex-pets\\hachiware-run\\final\\spritesheet.webp",
+    "validation":  "C:\\Users\\billd\\codex-pets\\hachiware-run\\final\\validation.json",
+    "contact_sheet":  "C:\\Users\\billd\\codex-pets\\hachiware-run\\qa\\contact-sheet.png",
+    "review":  "C:\\Users\\billd\\codex-pets\\hachiware-run\\qa\\review.json",
+    "installed_validation":  "C:\\Users\\billd\\codex-pets\\hachiware-run\\qa\\installed-validation.json",
+    "package":  "C:\\Users\\billd\\.codex\\pets\\hachiware",
+    "visual_qa":  "pass",
+    "visual_qa_note":  "Same hachiware-style pet identity, palette, silhouette, face, and proportions hold across all rows, with no visible chroma-key fringe and state-appropriate motion.",
+    "chroma_cleanup":  "Reprocessed row strips with auto border key sampling, soft matte, and despill; clean frame inspection reports 0 chroma-adjacent pixels."
+}
