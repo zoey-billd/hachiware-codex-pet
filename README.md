@@ -8,6 +8,10 @@ This repository contains a ready-to-install custom pet package:
 - `spritesheet.webp`
 - preview and QA files under `preview/` and `qa/`
 
+The current spritesheet includes a small motion-tuning pass that keeps the
+original drawings but smooths the running, jumping, waiting, failed, and review
+loops.
+
 ![Contact sheet](preview/contact-sheet.png)
 
 ## Install
@@ -53,24 +57,26 @@ The generated sprite atlas was checked against the Codex pet contract:
 - Cell size: `192x208`
 - Format: WebP with RGBA alpha
 - Transparent RGB residue: `0`
-- Visual QA: passed after chroma-edge cleanup
+- Motion QA: running, jumping, waiting, failed, and review loops tuned for smoother cadence
 
 See:
 
 - `qa/validation.json`
 - `qa/installed-validation.json`
 - `qa/review.json`
+- `qa/motion-tuning.json`
 - `qa/run-summary.json`
 
 ## 中文说明
 
-这是一个非官方同人小八风格 Codex 桌宠包。下载后把 `pet.json` 和 `spritesheet.webp` 放到：
+这是一个非官方同人小八风格 Codex 桌宠包。下载后把 `pet.json` 和
+`spritesheet.webp` 放到：
 
 ```text
 %USERPROFILE%\.codex\pets\hachiware
 ```
 
-如果 Codex 没有立刻显示，重启 Codex 再看自定义桌宠列表。
+如果 Codex 没有立刻显示，重启 Codex 后再看自定义桌宠列表。
 
 ## Rights Notice
 

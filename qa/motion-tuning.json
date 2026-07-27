@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "purpose": "Improve motion continuity without regenerating the character art.",
+  "method": "Frame registration, safer cropped-content scaling, and row-specific frame order tuning.",
+  "notes": {
+    "running-right": "Normalized gait frames to a shared center, height, and near-stable baseline with a tiny bounce.",
+    "running-left": "Normalized gait frames to a shared center, height, and near-stable baseline with a tiny bounce.",
+    "jumping": "Re-registered jump frames into a clearer down-up-down arc instead of a scale pop.",
+    "failed": "Removed the abrupt standing-to-lying cuts from the loop; kept a sad standing/crouching failure cycle.",
+    "review": "Reordered review into a smaller focus/tilt cycle and normalized registration.",
+    "waiting": "Reordered waiting from neutral to expectant poses, ending on the worried hold."
+  },
+  "metrics": [
+    {
+      "state": "running-right",
+      "max_center_delta_before": 1.0,
+      "max_center_delta_after": 2.0,
+      "max_height_delta_before": 20,
+      "max_height_delta_after": 6,
+      "max_area_delta_before": 3486,
+      "max_area_delta_after": 4779
+    },
+    {
+      "state": "running-left",
+      "max_center_delta_before": 1.0,
+      "max_center_delta_after": 2.0,
+      "max_height_delta_before": 20,
+      "max_height_delta_after": 6,
+      "max_area_delta_before": 3486,
+      "max_area_delta_after": 4779
+    },
+    {
+      "state": "jumping",
+      "max_center_delta_before": 0.5,
+      "max_center_delta_after": 16.0,
+      "max_height_delta_before": 34,
+      "max_height_delta_after": 23,
+      "max_area_delta_before": 6685,
+      "max_area_delta_after": 3891
+    },
+    {
+      "state": "failed",
+      "max_center_delta_before": 0.5,
+      "max_center_delta_after": 0.5,
+      "max_height_delta_before": 70,
+      "max_height_delta_after": 0,
+      "max_area_delta_before": 10252,
+      "max_area_delta_after": 1333
+    },
+    {
+      "state": "waiting",
+      "max_center_delta_before": 0.5,
+      "max_center_delta_after": 0.5,
+      "max_height_delta_before": 0,
+      "max_height_delta_after": 0,
+      "max_area_delta_before": 390,
+      "max_area_delta_after": 555
+    },
+    {
+      "state": "review",
+      "max_center_delta_before": 0.5,
+      "max_center_delta_after": 1.0,
+      "max_height_delta_before": 0,
+      "max_height_delta_after": 0,
+      "max_area_delta_before": 1537,
+      "max_area_delta_after": 956
+    }
+  ],
+  "validation": "validate_atlas.py and inspect_frames.py passed with no errors or warnings after tuning."
+}
